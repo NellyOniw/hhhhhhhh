@@ -1,0 +1,13 @@
+.cabecalho{background-color: #000000;color: rgb(255, 255, 255);display:flex; justify-content: space-around;position: relative;
+    top: 99%;}
+.logo{width: 10%;}
+footer {
+	background-color: #000000;
+	color: rgb(255, 255, 255);
+	height: 400px;
+	margin-top: 70px;
+	padding: 70px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+  }
